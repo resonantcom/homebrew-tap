@@ -1,6 +1,6 @@
 cask "resonant" do
   version "0.1.72"
-  sha256 "179cb49d8e9be3fedf6acf278c76dc6a1455da443639f24466033473da65df0a"
+  sha256 "0fc003e59b8f4486d46e71a2d163bf3a0532a0bb5634cf38bc15c4a0ba01d3fc"
 
   url "https://downloads.onresonant.com/Resonant-latest-arm64.dmg"
   name "Resonant"
