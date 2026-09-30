@@ -7,7 +7,7 @@ cask "resonant" do
   desc "Voice-first productivity app for macOS"
   homepage "https://onresonant.com"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "Resonant.app"
