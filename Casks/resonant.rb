@@ -1,8 +1,8 @@
 cask "resonant" do
-  version "0.1.102"
-  sha256 "754d0513e034bc5d4d9cc745c8a653505f13dfd9da75d2d02a1ea0ee3ba4808d"
+  version "0.1.103"
+  sha256 "c34b643e148bfa9b7751fe52a4d97b257751c7f13b0fddd6981980e54828432a"
 
-  url "https://downloads.onresonant.com/Resonant-0.1.102-build-20261029075005-arm64.dmg"
+  url "https://downloads.onresonant.com/Resonant-0.1.103-build-20261029091833-arm64.dmg"
   name "Resonant"
   desc "Voice-first productivity app for macOS"
   homepage "https://onresonant.com"
