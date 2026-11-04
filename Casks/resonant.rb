@@ -4,11 +4,11 @@ cask "resonant" do
 
   url "https://downloads.onresonant.com/Resonant-0.1.104-build-20261101140631-arm64.dmg"
   name "Resonant"
-  desc "Voice-first productivity app for macOS"
-  homepage "https://onresonant.com"
+  desc "Voice-first productivity app"
+  homepage "https://onresonant.com/"
 
-  depends_on macos: ">= :sonoma"
   depends_on arch: :arm64
+  depends_on macos: :sonoma
 
   app "Resonant.app"
 
